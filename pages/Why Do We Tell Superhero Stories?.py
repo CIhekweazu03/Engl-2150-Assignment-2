@@ -28,7 +28,7 @@ img_3 = Image.open("images/ironman.jpeg")
 
 # ---- HEADER SECTION ----
 with st.container():
-    st.header("Expert Opinions")
+    st.header("An Expert's Opinion")
     st.write(
         """
         \t\"The heroes represent the wholesome part of society. Society has a wholesome side and it has a downside. We know where those facets lie. They are common to all of us.\"
