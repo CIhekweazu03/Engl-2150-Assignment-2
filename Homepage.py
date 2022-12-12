@@ -50,7 +50,7 @@ with st.container():
             On this website I plan on discussing the following topics:
             - What exactly is a superhero?
             - Why do we tell superheroes stories?
-            - What does the future of superhero stories look like?
+            - Representation within superhero stories.
             """
         )
     with right_column:
