@@ -28,7 +28,7 @@ img_3 = Image.open("images/ultimatescover.jpeg")
 
 # ---- HEADER SECTION ----
 with st.container():
-    st.header("An Expert's Opinion)
+    st.header("An Expert's Opinion")
     st.write(
         """
         \t\"Those stories have room for everyone, regardless of their race, gender, religion, or color of their skin\"
