@@ -81,11 +81,7 @@ with st.container():
     with text_column:
         st.write(
             """
-            These two discussions took place near the end of the semester, so most of my thoughts are roughly the same.
-            Superhero stories as time continues on have become more diverse and willing to tell stories of previously underrepresented groups within the superhero landscape. 
-            I believe that this progress in representation is paramount to the continued success of superhero stories because it allows for everyone to get involved in a way some
-            felt that they couldn't have before. Even if someone isn't the biggest fan of superheroes in general, I can guarantee that everyone can find at least one superhero that they
-            can relate to in one way or another. Quite frankly, I'd argue that superheroes are by far the most diverse type of adventure stories because of their large in scope and size nature.
+            These two discussions took place near the end of the semester, so most of my thoughts are roughly the same. As time continues, superhero stories have become more diverse and willing to tell stories of previously underrepresented groups within the superhero landscape. This progress in representation is paramount to the success of superhero stories because it allows everyone to get involved in a way some felt that they couldn't have before. Even if someone isn't the biggest fan of superheroes in general, I can guarantee that everyone can find at least one superhero that they can relate to in one way or another. Quite frankly, I'd argue that superheroes are by far the most diverse type of adventure stories because of their large in scope and size nature.
             """
         )
     with image_column:

@@ -79,13 +79,7 @@ with st.container():
     with text_column:
         st.write(
             """
-            Over the course of this semester my view on this topic hasn't changed drastically, but it certainly has evolved.
-            Superhero stories, when done right, can be a reflection of all of our lives in some way another. Sure we may not be
-            a multi-billionaire genius like Iron Man or Batman, but we may know someone who battles addiction, or may have lost a parent
-            at some point in their life. Superhero stories signify that things aren't always going to go right in lives. If Superman, a near
-            perfect being can struggle, so can you. These stories provide a form of inspiration that we can all overcome life's challenges
-            despite how dire our situations may seem at a given moment. All of this can be wrapped up in funny stories, with ridiculous characters,
-            but the message is still always there.
+            Over the course of this semester, my view on this topic hasn't changed drastically, but it certainly has evolved. Superhero stories, when done right, can be a reflection of all of our lives in some way or another. Sure we may not be multi-billionaire geniuses like Iron Man or Batman, but we may know someone who battles addiction or may have lost a parent at some point in their life. Superhero stories signify that things aren't always going to go right in life. If Superman, a near-perfect being, can struggle, so can you. These stories provide a form of inspiration that we can all overcome life's challenges despite how dire our situations may seem at a given moment. These elements can be wrapped up in entertaining stories with ridiculous characters, but the message is always there.
             """
         )
     with image_column:

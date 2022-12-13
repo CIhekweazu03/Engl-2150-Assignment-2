@@ -83,11 +83,7 @@ with st.container():
     with text_column:
         st.write(
             """
-            Being that this discussion (and similar discussions for that matter) took place near the beginning of the semester, my ideas on this topic have changed a bit.
-            I thought a superhero was someone with ridiculous powers, amazing feats of strength, charismatic, witty, and practically perfect all around.
-            But now? A superhero to me is someone who consistently does the right thing to the best of their abilities. As Billy Ocean once said \"When the going gets tough, the tough get going.\"
-            The superheroes are the tough that we can all rely on for inspiration.
-            This includes anyone from heavy hitters like Thor and Superman to supergenius fighters like Black Panther and Batman to \"normal\" humans like our beloved Hawkeyes!
+            Since this discussion took place near the beginning of the semester, my ideas on this topic have changed a bit. I thought a superhero was someone with ridiculous powers, amazing feats of strength, charismatic, witty, and practically perfect all around. But now? A superhero, to me, is someone who consistently does the right thing to the best of their abilities. As Billy Ocean once said, "When the going gets tough, the tough get going." The superheroes are the tough that we can all rely on for inspiration. This includes anyone from heavy hitters like Thor and Superman to supergenius fighters like Black Panther and Batman to \"normal\" humans like our beloved Hawkeyes!
             """
         )
     with image_column:
