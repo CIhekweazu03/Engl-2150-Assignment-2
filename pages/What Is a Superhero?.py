@@ -41,7 +41,7 @@ with st.container():
     st.write("---")
     st.header("Traits of A Superhero (From Discussion 6)")
     st.write("##")
-    text_column, image_column = st.columns((2, 1)) #st.columns((1, 2))
+    text_column, image_column = st.columns((2, 1.5)) #st.columns((1, 2))
     with text_column:
         st.subheader("Other's Opinion")
         st.write(
