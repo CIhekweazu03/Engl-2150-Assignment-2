@@ -30,7 +30,7 @@ img_3 = Image.open("images/ironman.jpeg")
 with st.container():
     st.header("Random Stuff That Didn't Fit Elsewhere")
 
-st.write(img_1)
+st.image(img_1)
 st.markdown("[Where This Underrated, All-time Great, Comic Panel Comes From](https://tfwiki.net/wiki/The_Not_Knowing)")
 st.write("""This is honestly my favorite comic book panel of all time. It is truly a haunting image to see just how many deaths Megatron is responsible for.
         And then to learn that not only do the flowers represent death, but each flower is representative of a dozen lives lost is just deep.
