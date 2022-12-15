@@ -4,9 +4,9 @@ from streamlit_lottie import st_lottie
 import PIL
 from PIL import Image
 
-st.set_page_config(page_title="Bonus", layout="wide")
+st.set_page_config(page_title="Bonus Page", layout="wide")
 st.sidebar.success("Select a page")
-st.title("Bonus")
+st.title("Bonus Page")
 
 def load_lottieurl(url):
     r = requests.get(url)
@@ -32,8 +32,5 @@ with st.container():
 
 st.image(img_1)
 st.markdown("[Where This Underrated, All-time Great, Comic Panel Comes From](https://tfwiki.net/wiki/The_Not_Knowing)")
-st.write("""This is honestly my favorite comic book panel of all time. It is truly a haunting image to see just how many deaths Megatron is responsible for.
-        And then to learn that not only do the flowers represent death, but each flower is representative of a dozen lives lost is just deep.
-        Rarely do we see supervillains forced to see the consequences of their actions and their villainy in this capacity. 
-        This Transformers comic, as well as all of the IDW Transformers comics did a great job of covering some of these topic.
+st.write("""This is honestly my favorite comic book panel of all time. It is truly a haunting image to see just how many deaths Megatron is responsible for. And then to learn that not only do the flowers represent death, but each flower is representative of a dozen lives lost is just profound. Rarely do we see supervillains forced to see the consequences of their actions and their villainy in this capacity. This Transformers comic and all of the IDW Transformers comics did a great job covering some of these topics.
         """)
