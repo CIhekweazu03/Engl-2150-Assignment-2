@@ -34,8 +34,8 @@ st.image(img_1)
 st.markdown("[Where This Underrated, All-time Great, Comic Panel Comes From](https://tfwiki.net/wiki/The_Not_Knowing)")
 st.write("""This is honestly my favorite comic book panel of all time. It is truly a haunting image to see just how many deaths Megatron is responsible for. And then to learn that not only do the flowers represent death, but each flower is representative of a dozen lives lost is just profound. Rarely do we see supervillains forced to see the consequences of their actions and their villainy in this capacity. This Transformers comic and all of the IDW Transformers comics did a great job covering some of these topics.
         """)
-st.write(img_2)
-st.write(img_3)
+st.image(img_2)
+st.image(img_3)
 st.markdown("[Where These Amazing Panels Came From](https://tfwiki.net/wiki/The_Dying_of_the_Light_Part_6:_Do_Not_Go_Gentle)")
 st.write("""Then issues later to see a newly reformed Megatron face off and destroy some of his very own "creations" from his time as a warlord/tyrant/dictator was just pretty awesome all around.
         """)
